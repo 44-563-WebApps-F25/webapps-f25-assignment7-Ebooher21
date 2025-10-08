@@ -1,0 +1,7 @@
+#title_header, #intro, #locations, #score, #help {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#title_header {
+    margin:10px;
+}
